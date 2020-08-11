@@ -1,0 +1,94 @@
+body{
+	background-color: #ccc;
+	color: #222;
+	font-family: Aerial;
+
+}
+.respo{
+	color: maroon;
+	text-align: center;
+	font-style: 1.0vw;
+}
+
+.cont{
+	max-width: 1000px;
+	max-height: 200px;
+	margin:0 auto;
+	background-color: white;
+}
+.cont h2{
+	font-size: 10vw;
+}
+
+img{
+   display:flex;
+  margin-left: auto;
+  margin-right: auto;
+  }
+
+.one{
+	background-color: #b88772;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0vw;
+}
+
+.two{
+	background-color: #995f46;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0vw;
+
+}
+
+
+.three{
+	background-color: #78412a;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0vw;
+}
+
+
+
+.four{
+	background-color: #824026;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0vw;
+}
+
+
+
+.five{
+	background-color: #78412a;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0vw;
+}
+
+
+
+.six{
+	background-color:#995f46;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0vw;
+}
+
+
+.seven{
+	background-color: #b88772;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0;
+}
+
+
+
+.eight{
+	background-color:#b88772;
+	min-height: 100px;
+	padding: 20px;
+	font-style: 1.0vw;
+}
